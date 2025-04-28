@@ -1,0 +1,377 @@
+@media screen and (min-width: 768px){
+*{
+    margin: 0;
+    padding: 0;
+    font-family: calibri;
+    box-sizing: border-box;
+}
+.ju{
+    color:#ffffff80;
+}
+.cover{
+    height: 323px;
+    background:url(./images/cover_overlay.png) no-repeat center/100% 100% ,url(./images/cover.jpg) no-repeat center/cover;
+}
+.Fita{
+    width: 220px;
+    position:relative;
+    left: 50%;
+    margin-left: -90px;
+    margin-top: 25px;
+}
+.cover h1{
+    text-align: center;
+    color: white;
+}
+.word{
+    display: flex;
+    background: rgba(6, 143, 47, 0.541);
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.word img{
+    width: 5rem;
+}
+.excel{
+    display: flex;
+    background: rgba(6, 143, 47, 0.541);
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.excel img{
+    width: 5rem;
+}
+.access{
+    display: flex;
+    background: rgba(6, 143, 47, 0.541);
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.access img{
+    width: 5rem;
+}
+.table{
+    height: 300px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.bureau{
+    width:40%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius:15px ;
+    box-shadow: 2px 0px 35px #00000060;
+}
+.photo{
+    display: flex;
+    background: coral;
+}
+.maella{
+    width: 45%;
+    border-radius: 15px;
+}
+.fita{
+    width: 51%;
+    border-radius: 15px;
+}
+.photoshop{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.table1{
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 620px;
+}
+.design{
+    width: 38%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius:15px;
+    box-shadow: 2px 0px 35px #00000060;
+}
+.sepa1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 600px;
+    padding: 2rem;
+}
+.soratra{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(6, 143, 47, 0.541);
+    align-items: center;
+    width: 70%;
+    height: 90%;
+    border-radius: 10px;
+    font-size: 100%;
+}
+.maint{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.maint img{
+    width: 7rem;
+    border-radius: 10rem;
+}
+.maintenance{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 2px 0px 35px #00000060;
+}
+.soratra1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(6, 143, 47, 0.541);
+    align-items: center;
+    width: 80%;
+    height: 98%;
+    border-radius: 10px;
+    font-size: 90%;
+}
+.maintenance1{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 2px 0px 35px #00000060;
+}
+.maintenance1 img{
+    width: 10rem;
+}
+.blabla{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
+.maint1{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.sepa2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    width: 100%;
+}}
+@media screen and (max-width: 768px){
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: calibri;
+        box-sizing: border-box;
+    }
+    .ju{
+        color:#ffffff80;
+    }
+    .cover{
+        height: 323px;
+        background:url(./images/cover_overlay.png) no-repeat center/100% 100% ,url(./images/cover.jpg) no-repeat center/cover;
+    }
+    .Fita{
+        width: 220px;
+        position:relative;
+        left: 50%;
+        margin-left: -110px;
+        margin-top: 25px;
+    }
+    .cover h1{
+        text-align: center;
+        color: white;
+        font-size:x-large;
+    }
+    .word{
+        display: flex;
+        background: rgba(6, 143, 47, 0.541);
+        align-items: center;
+        width: 100%;
+        justify-content: space-evenly;
+        border-radius: 10px;
+    }
+    .word img{
+        width: 5rem;
+    }
+    .excel{
+        display: flex;
+        background: rgba(6, 143, 47, 0.541);
+        align-items: center;
+        width: 100%;
+        justify-content: space-evenly;
+        border-radius: 10px;
+    }
+    .excel img{
+        width: 5rem;
+    }
+    .access{
+        display: flex;
+        background: rgba(6, 143, 47, 0.541);
+        align-items: center;
+        width: 100%;
+        justify-content: space-evenly;
+        border-radius: 10px;
+    }
+    .access img{
+        width: 5rem;
+    }
+    .table{
+        height: 300px;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .bureau{
+        width:100%;
+        height: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius:15px ;
+        text-align: center;
+    }
+    .photo{
+        display: flex;
+        background: coral;
+    }
+    .maella{
+        width: 100%;
+    }
+    .fita{
+        width: 100%;
+    }
+    .photoshop{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: space-evenly;
+        border-radius: 10px;
+    }
+    .table1{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+    .design{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius:15px;
+    }
+    .soratra{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: rgba(6, 143, 47, 0.541);
+        align-items: center;
+        border-radius: 10px;
+        font-size: 90%;
+        padding: 5px;
+    }
+    .maint{
+        display: flex;
+        width: 100%;
+        height: 100%;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .maint img{
+        width: 7rem;
+        border-radius: 10rem;
+    }
+    .maintenance{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .soratra1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background: rgba(6, 143, 47, 0.541);
+        align-items: center;
+        border-radius: 10px;
+        font-size: 98%;
+        padding: 5px;
+    }
+    .maintenance1{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .maintenance1 img{
+        width: 10rem;
+    }
+    .blabla{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .maint1{
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .retour{
+        background: #c0c0c080;
+        width: 100%;
+        text-align: center;
+        text-decoration: none;
+        color: red;
+    }
+    }
